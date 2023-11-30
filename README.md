@@ -1,7 +1,7 @@
 - 👋 ola, sou o Alex
 - 👀 Tenho interesse em desinger grafico , proramaçao de games , e desing de jogos
 - 🌱 Estou atualmente curçando o primeiro ano do ensino medio ,com um cruso tecnico em desenvovimento de sistemas
-- 💞️ Procuro colaborar em craiaçao de games 
+- 💞️ Procuro colaborar em craiaçẫo de games 
 - 📫 Entre em contato comigo atraves das seguintes redes 
 
 <!---
@@ -25,5 +25,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "alexandreoliveirazimpell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 </div>
